@@ -6,7 +6,7 @@ public class TransactionBoImpl implements TransactionBo {
 
 	public String save() {
 
-		return "Jersey + Spring example+abcd";
+		return "Jersey + Spring example+abcd12345";
 
 	}
 
